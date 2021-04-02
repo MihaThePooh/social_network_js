@@ -1,0 +1,19 @@
+.nav {
+    grid-area: n;
+    background-color: darkkhaki;
+    padding: 20px;
+}
+
+.item a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.item {
+    color: whitesmoke;
+}
+
+.item a.active {
+    color: darkred;
+    background-color: slategrey;
+}
